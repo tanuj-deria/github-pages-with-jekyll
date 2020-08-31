@@ -1,1 +1,4 @@
-This is a draft version of the new file
+---
+title: "Test Title"
+date: 2020-08-31
+---
